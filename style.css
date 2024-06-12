@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(61, 59, 56);
+    color: aliceblue;
+}
+
+body{
+    text-align: center;
+}
+
+#result{
+    font-size: 30px;
+}
